@@ -2,7 +2,7 @@
 	"name": "FocusCrystalOverBrassNuckles",
 	"author": "Xaidee",
 	"version_number": "1.0.0",
-	"website_url": "",
+	"website_url": "https://github.com/Xaidee/RORR-FocusCrystalOverBrassKnuckles",
 	"description": "Changes Brass Knuckles from SSR to Focus Crystal from RoR2.",
 	"dependencies": [
 		"RoRRModdingToolkit-RoRR_Modding_Toolkit-1.2.25",
