@@ -1,0 +1,13 @@
+{
+	"item" : {
+		"brassKnuckles" : {
+			"name": "Focus Crystal",
+			"pickup" : "Deal bonus damage to nearby enemies.",
+			"description": "Deal <y>+35% damage</c> to enemies within <y>2.8m</c> <c_stack>(+1.4 per stack)</c>.",
+			"destination": "UESPD,\nE42,\nUES Halberd B2",
+			"date": "03/01/2056",
+			"story" : "Hope they don't up the price for this thing. I haven't had troubles with UES before, but I've never had to ship a crystal this far before. Let me know if the package is marked as \"heavy\" when you get it.",
+			"priority": "<y>Standard</c>"
+		}
+	}
+}
