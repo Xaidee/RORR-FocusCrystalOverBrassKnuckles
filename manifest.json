@@ -3,7 +3,7 @@
 	"author": "Xaidee",
 	"version_number": "1.0.0",
 	"website_url": "",
-	"description": "Changes Brass Nuckles from SSR to Focus Crystal from RoR2.",
+	"description": "Changes Brass Knuckles from SSR to Focus Crystal from RoR2.",
 	"dependencies": [
 		"RoRRModdingToolkit-RoRR_Modding_Toolkit-1.2.25",
 		"RobomandosLab-StarstormReturns-0.1.2"
